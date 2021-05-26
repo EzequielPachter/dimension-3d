@@ -1,0 +1,93 @@
+.fondo1 {
+  height: 400px;
+  background-color: white; }
+
+.productos-1 {
+  width: 230px;
+  height: 300px;
+  box-shadow: 1px -2px 31px -3px rgba(0, 0, 0, 0.77);
+  -webkit-box-shadow: 1px -2px 31px -3px rgba(0, 0, 0, 0.77);
+  -moz-box-shadow: 1px -2px 31px -3px rgba(0, 0, 0, 0.77);
+  transform: translate(125px, 150px); }
+
+.image {
+  width: 200px;
+  height: 250px; }
+
+.fondo2 {
+  height: 400px;
+  background-color: white; }
+
+.fondo3 {
+  height: 400px;
+  background-color: white; }
+
+.fondo-de-nav {
+  transition: all 1s ease; }
+
+.color-de-letra {
+  color: #39a72e; }
+
+.color-de-le {
+  color: white; }
+
+.fondo-de-nav-grande .logo {
+  margin-left: 5px;
+  width: 20%;
+  height: 20%; }
+
+.fondo-de-nav-grande .mover-nav {
+  transform: translateX(-100px); }
+
+.fondo-de-nav-grande ul li a {
+  font-size: 23px; }
+
+.fondo-de-nav-grande .a {
+  font-size: 23px;
+  color: #39a72e; }
+
+.card {
+  width: 330px;
+  height: 350px;
+  border-radius: 8px;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  margin: 20px;
+  text-align: center;
+  transition: all 0.25s;
+  margin-top: 100px; }
+
+.card img {
+  width: 300px;
+  height: 250px;
+  text-align: center;
+  margin-top: 10px; }
+
+.card a {
+  text-decoration: none;
+  color: black; }
+
+.card a:hover {
+  text-decoration: none;
+  color: black; }
+
+.logo {
+  margin-left: 5px;
+  width: 15%;
+  height: 15%; }
+
+.mover-nav {
+  transform: translateX(-100px); }
+
+.pantalla-de-producto {
+  width: 100%;
+  height: 100%;
+  background-color: black; }
+
+.box {
+  box-shadow: 0 0 20px 2px rgba(0, 0, 0, 0.1);
+  transition: 1s; }
+
+.box:hover {
+  transform: scale(1.1);
+  z-index: 2; }
